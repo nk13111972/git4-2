@@ -9,7 +9,7 @@ to use the calcuator do this
 import java.awt.*;
 import java.awt.event.*;
 /*********************************************/
-
+/*Sample comment in calcb1*/
 public class MyCalculator extends Frame
 {
 
