@@ -11,6 +11,7 @@ import java.awt.event.*;
 /*********************************************/
 /*Sample comment in calcb1*/
 /*Sample comment in calcb2*/
+/*Sample comment in calcb2*/
 public class MyCalculator extends Frame
 {
 
